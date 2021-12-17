@@ -2,7 +2,7 @@
 O curso pode ser acessado na plataforma da [Digital Innovation One](https://digitalinnovation.one/).
 
 ## Sobre o Autor
-<img align="left" width="190" height="190" margin-right="150px" src="> Sou um desenvolvedor back-end iniciante.
+<img align="left" width="190" height="190" margin-right="150px" src=""> Sou um desenvolvedor back-end iniciante.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ezequiel_Messore-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezequielmessore/)](https://www.linkedin.com/in/matheusssodre/)  [![Gmail Badge](https://img.shields.io/badge/-ezequielmessore@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusssodre98@gmail.com)](mailto:matheusssodre98@gmail.com)
 
